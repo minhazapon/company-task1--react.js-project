@@ -77,10 +77,10 @@ const Nav = () => {
     </ul>
   </div>
   <div className="navbar-end">
-  <div className="w-10 rounded-full">
-          <img className=" rounded-full"
+  <div className=" rounded-full">
+          <img className=" h-[45px] w-[45px]  rounded-full"
             alt="Tailwind CSS Navbar component"
-            src="https://i.ibb.co/0Q5TDBy/galaxy-2.png" />
+            src="https://img.freepik.com/premium-photo/portrait-documentary-photographer-wallpaper_987764-132140.jpg?w=740" />
         </div>
 
   </div>
